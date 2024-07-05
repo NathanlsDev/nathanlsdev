@@ -71,9 +71,9 @@
   
 <table>
   <tr align="center">
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanlsdev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" width="400"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlsdev&layout=compact&langs_count=7&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" width="400"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanlsdev&theme=aura" ></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanlsdev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" width="450px"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlsdev&layout=compact&langs_count=7&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" width="450px"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanlsdev&theme=aura" width="300px"></td>
   </tr>  
   <tr align="center">
     <td colspan="3"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanlsdev&theme=aura"></td>
