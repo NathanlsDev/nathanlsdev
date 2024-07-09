@@ -44,7 +44,7 @@
 
 💜 &emsp; <strong style="font-size: 18px">Lifelong learner!</strong><br/><br/>
 🤟🏾 &emsp; Gosto de programar, aprender e compartilhar conhecimento.<br/><br/>
-💻 &emsp; Passo a maior parte do meu dia lendo/escrevendo código.<br/><br/>
+💻 &emsp; Estou todos os dias lendo/escrevendo código.<br/><br/>
 🌟 &emsp; Estou sempre aprendendo algo novo.<br/><br/>
 📧 &emsp; Me contate a qualquer momento: nathanls.dev@gmail.com<br/><br/>
 💬 &emsp; Ou simplesmente mande um oi [aqui](https://discord.com/users/818686819796779059)
