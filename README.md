@@ -77,8 +77,8 @@
     <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlsdev&layout=compact&langs_count=7&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" width="400px"></td>
   </tr>  
   <tr align="center">
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlsdev&theme=aura&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=450" width="600px"></td>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanlsdev&theme=aura" width="800px"></td>
+    <td colspan="2" height="250px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlsdev&theme=aura&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=450"></td>
+    <td colspan="2" height="250px"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanlsdev&theme=aura" width="600px"></td>
   </tr>  
   <tr align="center">
     <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanlsdev&theme=aura" width="450px"></td>
