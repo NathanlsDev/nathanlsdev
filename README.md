@@ -1,6 +1,6 @@
 <!-- stats  -->
 <a href="https://komarev.com/ghpvc/?username=nathanlsdev">
-  <img align="right" src="https://komarev.com/ghpvc/?username=nathanlsdev&label=Hey+stalker!+👀&color=a277ff&style=flat-square" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=nathanlsdev&label=Hello+Visitor!&color=a277ff&style=flat-square" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018d031b-f3ef-4225-bb06-8571ffb09cac.svg?style=flat-square&color=a277ff)](https://wakatime.com/@018d031b-f3ef-4225-bb06-8571ffb09cac)
@@ -15,7 +15,7 @@
 <div align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="animated react logo" title="react-logo" width="55" height="55" /></div>
 
 <p align="center"> 
-  <samp style="font-size: 18px">
+  <samp>
     「 Sou um desenvolvedor de software com foco em aplicações Web  」
     <br>
   </samp>
@@ -40,9 +40,9 @@
 # Sobre
 
 <p>
- <img align="right" width="330" src="https://i.ibb.co/tD0F0tq/ezgif-7-4bfc2caa14.gif" alt="Lifelong learning gif" />
+ <img align="right" width="300" src="https://i.ibb.co/tD0F0tq/ezgif-7-4bfc2caa14.gif" alt="Lifelong learning gif" />
 
-💜 &emsp; <strong style="font-size: 18px">Lifelong learner!</strong><br/><br/>
+💜 &emsp; <strong>Lifelong learner!</strong><br/><br/>
 🤟🏾 &emsp; Gosto de programar, aprender e compartilhar conhecimento.<br/><br/>
 💻 &emsp; Estou todos os dias lendo/escrevendo código.<br/><br/>
 🌟 &emsp; Estou sempre aprendendo algo novo.<br/><br/>
