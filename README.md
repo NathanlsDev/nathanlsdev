@@ -78,10 +78,10 @@
   </tr>  
   <tr align="center">
     <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanlsdev&theme=aura&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=450"></td>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanlsdev&theme=aura" width="600px"></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanlsdev&theme=aura" width="450px"></td>
   </tr>  
   <tr align="center">
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanlsdev&theme=aura" width="450px"></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanlsdev&theme=aura" width="600px"></td>
     <td colspan="2"><a href="https://discord.com/users/818686819796779059" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/818686819796779059?theme=aura&animated=true&borderRadius=6px&idleMessage=Probably+doing+something+else..." width="400px"></a></td>
   </tr>
 </table>
