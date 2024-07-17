@@ -40,7 +40,7 @@
 # Sobre
 
 <p>
- <img align="right" width="300" src="https://i.ibb.co/tD0F0tq/ezgif-7-4bfc2caa14.gif" alt="Lifelong learning gif" />
+ <img align="right" width="350" src="https://i.ibb.co/tD0F0tq/ezgif-7-4bfc2caa14.gif" alt="Lifelong learning gif" />
 
 💜 &emsp; <strong style="font-size: 18px">Lifelong learner!</strong><br/><br/>
 🤟🏾 &emsp; Gosto de programar, aprender e compartilhar conhecimento.<br/><br/>
